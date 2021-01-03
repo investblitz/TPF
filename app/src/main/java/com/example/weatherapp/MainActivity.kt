@@ -14,7 +14,7 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
-    val CITY: String = "Porto,pt"
+    val CITY: String = "Porto,Pt"
     val API: String = "2b05663b48e85b9e42df1b6509f2a991" // Use API key
 
     override fun onCreate(savedInstanceState: Bundle?) {
